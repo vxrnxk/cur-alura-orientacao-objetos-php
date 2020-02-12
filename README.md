@@ -7,3 +7,4 @@ Curso Alura Orientação a Objetos com PHP: Classes, métodos e atributos
 - [Aula 3 - Definindo os comportamentos](https://github.com/vxrnxk/cur-alura-orientacao-objetos-php/tree/master/aula-03)
 - [Aula 4 - Protegendo os nossos dados](https://github.com/vxrnxk/cur-alura-orientacao-objetos-php/tree/master/aula-04)
 - [Aula 5 - Mais sobre métodos](https://github.com/vxrnxk/cur-alura-orientacao-objetos-php/tree/master/aula-05)
+- [Aula 6 - Composição de objetos](https://github.com/vxrnxk/cur-alura-orientacao-objetos-php/tree/master/aula-06)
